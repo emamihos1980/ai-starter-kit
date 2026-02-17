@@ -1,9 +1,11 @@
+
+
 # ai-starter-kit
 
 A starter repo for Python + SQL + Git workflows (local-first), used as a foundation for my AI Engineer path.
 
 ## Reference (start here)
-- **AI Engineer Skill Path:** [`docs/AI_ENGINEER_PATH.md`](docs/AI_ENGINEER_PATH.md)
+- **AI Engineer Skill Path (Reference):** [AI_ENGINEER_PATH.md](docs/AI_ENGINEER_PATH.md)
 
 ## Repo layout
 - `src/` Python scripts
