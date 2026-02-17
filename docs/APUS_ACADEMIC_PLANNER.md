@@ -1,7 +1,7 @@
 # APUS Academic Planner (Data Science BS — Deep Learning)
 Last updated: 2026-02-17
 
-> Source: APUS “My Academic Plan” page (screenshot snapshot)
+> Source: APUS “My Academic Plan” page
 > Policy: Keep this file updated each session (every 8 weeks) before registering.
 
 ---
@@ -24,7 +24,7 @@ Last updated: 2026-02-17
 
 ---
 
-## General Education status (from snapshot)
+## General Education status
 ### Arts & Humanities (6 credits)
 - ARAB100 — Arabic I (in progress)
 - Remaining after ARAB100: 3 credits (need 1 more A&H course)
@@ -49,7 +49,7 @@ Last updated: 2026-02-17
 
 ---
 
-## Major Required status (from snapshot)
+## Major Required status
 **Currently taking:** MATH210 — Discrete Math
 
 Remaining key major courses listed:
@@ -82,7 +82,7 @@ Choose ONE of:
 
 ---
 
-## Concentration Requirements (Deep Learning) — 0/18 from snapshot
+## Concentration Requirements (Deep Learning) — 0/18
 Listed options:
 - CSCI381 — Machine Learning
 - CSCI386 — Advanced Topics in Machine Learning
@@ -112,8 +112,8 @@ Choose ONE of:
 
 ### March next-session draft (to decide before registration)
 Candidate set (balanced):
-- ARAB100 (finishes part of Arts & Humanities)
-- DATS211 (Intro to Data Science)
-- DATS200 (Functional Methods and Coding) OR a GenEd slot if needed
+- COLL114 since Arab101 is not being offered on march and it begin in April (finishes Civics, Political & Social Sciences)
+- STEM471 (Still a major but light )
+- Calculus II (Major and heavy math) 
 
 > Update this section each registration cycle with final enrolled courses + reasons.
