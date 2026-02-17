@@ -1,5 +1,3 @@
-
-
 # ai-starter-kit
 
 A starter repo for Python + SQL + Git workflows (local-first), used as a foundation for my AI Engineer path.
