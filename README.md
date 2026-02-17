@@ -4,6 +4,7 @@ A starter repo for Python + SQL + Git workflows (local-first), used as a foundat
 
 ## Reference (start here)
 - **AI Engineer Skill Path (Reference):** [AI_ENGINEER_PATH.md](docs/AI_ENGINEER_PATH.md)
+- **APUS Academic Planner Snapshot:** [`docs/APUS_ACADEMIC_PLANNER.md`](docs/APUS_ACADEMIC_PLANNER.md)
 
 ## Repo layout
 - `src/` Python scripts
